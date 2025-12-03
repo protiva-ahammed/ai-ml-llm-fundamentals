@@ -1,4 +1,4 @@
-class Solution:
+class Solution1:
 
 # The first step in gradient descent is to calculate the derivative (gradient) of the function.
 #  The derivative gives the slope of the function.
